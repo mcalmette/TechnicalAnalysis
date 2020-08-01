@@ -13,7 +13,11 @@ In your terminal in a Python IDE, type:
 git clone https://github.com/mcalmette/TechnicalAnalysis.git
 ```
 
-### Class Setup
+To ensure that Python3 is installed:
+```
+python3 --version
+```
+
 ```
 pip install pandas
 pip install matplotlib
