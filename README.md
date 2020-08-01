@@ -9,9 +9,9 @@ bottom to see screenshots and a gif of how it works! :grin:
 
 
 In your terminal in a Python IDE, type: 
-'''
+```
 git clone https://github.com/mcalmette/TechnicalAnalysis.git
-'''
+```
 
 ### Class Setup
 ```
