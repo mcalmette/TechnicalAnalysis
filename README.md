@@ -5,7 +5,7 @@ to check out the project for yourself, follow the instructions below - if not, s
 bottom to see screenshots and a gif of how it works! :grin:
 
 
-## Python 3.8/Pandas/MatPlotLib
+## Usage: Python 3.8/Pandas/MatPlotLib
 
 
 In your terminal in a Python IDE, type: 
@@ -18,6 +18,7 @@ To ensure that Python3 is installed:
 python3 --version
 ```
 
+### Installations:
 ```
 pip install pandas
 pip install matplotlib
