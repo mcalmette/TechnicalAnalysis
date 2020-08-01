@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from textgen import txt_file
 
+
 def macd(start_date,end_date,name,sym):
     dates = pd.date_range(start_date, end_date)
     df1 = pd.DataFrame(index=dates)  # emptyDF

@@ -32,12 +32,10 @@ def alpha(start_date, end_date, symbols, sym):
     beta,alpha = np.polyfit(daily_returns['SPY'], daily_returns[f'{symbols}'], 1)
     write_ab(alpha,beta)
 
-    #y = mx + b
     #y = beta* daily['SPY] + alpha
     #beta is the slope, how reactive is the stock to the market. a beta of 1 means that when the market goes up 1%,
     #then the stock will go up 1%
     #y axis is called alpha, if positive, means its returning more than the market overall
-
     plt.plot(daily_returns['SPY'], beta*daily_returns['SPY'] + alpha, '-',color='r')
     #can calculate the correlation of the scatterplot, which essentially checks the STDDEV
     plt.title("Daily returns")

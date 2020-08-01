@@ -3,6 +3,7 @@
 #pip install fpdf
 ###########################
 
+
 txt_file = open('StockReport.txt', 'w')
 
 def open_file(symbols, name):

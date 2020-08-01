@@ -110,7 +110,6 @@ def m_analysis(start_date, end_date,name,sym):
     ax3.tick_params(axis='x', colors='white')
     ax3.yaxis.label.set_color('white')
     ax3.tick_params(axis='y', colors='white')
-
     ax2.format_xdata = mdates.DateFormatter('%Y-%M-%D')
     fig.autofmt_xdate()
 

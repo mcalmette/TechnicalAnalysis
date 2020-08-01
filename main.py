@@ -22,5 +22,6 @@ def analyze():
     alpha(start_date,end_date,symbols,sym)
     close_file()
 
+
 if __name__ == '__main__':
     analyze()

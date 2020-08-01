@@ -14,7 +14,6 @@ def bollinger(start_date, end_date, sym, name, days):
 
     movingAverage = dfStock.rolling(days).mean()
     standDev = dfStock.rolling(days).std()
-
     upperBand = movingAverage + (2 * standDev)
     lowerBand = movingAverage - (2 * standDev)
 

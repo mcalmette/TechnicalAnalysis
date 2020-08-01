@@ -128,7 +128,6 @@ def mouse_move(event):
 
 
 def update_price(change, y):
-
     plt.text(0.01, 1.10, f"{change}",  fontsize=14, transform=ax1.transAxes,
             verticalalignment='top', bbox=props)
     plt.text(0.90, 1.10, "${:.2f}".format(y), fontsize=14, transform=ax1.transAxes,
@@ -136,7 +135,6 @@ def update_price(change, y):
 
 
 def write_plot(symbols,start_date, end_Date,percent,stock_percent):
-
     if percent >= 0:
         spychange = "outperformed"
         spych = "increased"
