@@ -35,7 +35,7 @@ csv file with the same date range (recommend 1 year/ 3 year/ 5 year), and add th
 
 Once you have the files in the project folder, go to main.py, and update the start/end date, name and ticker for the csv file.
 Note: The chosen stock dates should match the data of the SPY dates to get an accurate alpha/beta calculation. Additionally, the 
-sym and name should match the csv file so that python can extrapulate the data.
+sym and symbols variable should match the csv file so that python can extrapulate the data.
 For Microsoft, the variables would look like this:
 
 <img width="222" alt="Screen Shot 2020-08-01 at 3 54 47 PM" src="https://user-images.githubusercontent.com/56742122/89111831-5ee6bf80-d40f-11ea-95e4-45d01efa6f4b.png">
