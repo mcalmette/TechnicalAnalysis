@@ -31,5 +31,7 @@ Now you can run main.py with the given csv files (MSFT, PFE, T, SPY).
 To add different stock data, go to yahoo finance and download a stocks csv file with a date range. Include the SPY 
 csv file with the same date range (recommend 1 year/ 3 year/ 5 year), and add this to the techncial analysis folder.
 
+<img width="923" alt="Screen Shot 2020-08-01 at 3 52 58 PM" src="https://user-images.githubusercontent.com/56742122/89111817-26df7c80-d40f-11ea-8ae2-52eeb86bce19.png">
+
 
 
