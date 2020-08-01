@@ -18,14 +18,6 @@ def bollinger(start_date, end_date, sym, name, days):
     upperBand = movingAverage + (2 * standDev)
     lowerBand = movingAverage - (2 * standDev)
 
-    # ax.plot(movingAverage, label = "MA")
-    # movingAverage = movingAverage.rename(columns={'Adj Close': 'Moving Avg'}, label="Moving Avg")
-    # df1 = df1.join(movingAverage, how='inner')
-    # upperBand = upperBand.rename(columns={'Adj Close': 'Upper Band'}, label="Upper Band")
-    # df1 = df1.join(upperBand, how='inner')
-    # lowerBand = lowerBand.rename(columns={'Adj Close': 'Lower Band'}, label="Lower Band")
-    # df1 = df1.join(lowerBand, how='inner')
-
     gridsize = (1, 1)
     fig = plt.figure(figsize=(10, 6.5))
     fig.suptitle(f"{name}", color='white')
