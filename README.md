@@ -24,3 +24,7 @@ pip install pandas
 pip install matplotlib
 pip install mplcursors
 ```
+
+
+Now you can run main.py with the given csv files. 
+
