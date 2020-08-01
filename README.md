@@ -40,4 +40,13 @@ For Microsoft, the variables would look like this:
 
 <img width="222" alt="Screen Shot 2020-08-01 at 3 54 47 PM" src="https://user-images.githubusercontent.com/56742122/89111831-5ee6bf80-d40f-11ea-95e4-45d01efa6f4b.png">
 
+Now you are all set! Simply run main.py. For Microsoft, the program generates this:
+
+
+
+
+
+
+
+
 
