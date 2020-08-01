@@ -58,5 +58,4 @@ After, the program will generate a StockReport.txt with all of the technical val
 <img width="638" alt="Screen Shot 2020-08-01 at 4 18 30 PM" src="https://user-images.githubusercontent.com/56742122/89112102-1d581380-d413-11ea-9a5d-612f4caf83a2.png">
 
 
-![](Hnet-image.gif)
 
