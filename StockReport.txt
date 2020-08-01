@@ -1,0 +1,31 @@
+------------Pfizer Stock Report - Created by Michael Calmette------------
+
+From 2019-07-31 to 2020-07-31, PFE has increased by 3.31% while the 
+S&P 500 has increased by 11.43%, making PFE underperform the S&P 500 
+by -8.12%.
+
+Technicals:
+PFE Price: $38.22
+
+10 Day EMA: $37.65
+20 Day EMA: $36.59
+50 Day EMA: $35.59
+
+10 Day SMA: $37.77
+20 Day SMA: $36.09
+
+RSI: 65.64
+
+Bollinger Bands 
+Price: 38.22
+SMA: 36.09
+Neg STD Dev: 32.18
+Pos STD Dev: 40.01
+
+MACD: 1.18
+Signal Line: 0.89
+Divergence: 0.29
+
+Beta: 0.72
+Alpha: -0.0001
+Correlation: 0.7096
