@@ -58,5 +58,5 @@ After, the program will generate a StockReport.txt with all of the technical val
 <img width="638" alt="Screen Shot 2020-08-01 at 4 18 30 PM" src="https://user-images.githubusercontent.com/56742122/89112102-1d581380-d413-11ea-9a5d-612f4caf83a2.png">
 
 
-![](<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.94%;position:relative;"><iframe width="360" height="205" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4a5dsb"></iframe></div><p><a href="https://imgflip.com/gif/4a5dsb">via Imgflip</a></p></div>)
+![](Hnet-image.gif)
 
