@@ -8,7 +8,7 @@ bottom to see screenshots and a gif of how it works! :grin:
 ## Usage: Python 3.8/Pandas/MatPlotLib
 
 
-In your terminal in a Python IDE, type: 
+In terminal or in a Python IDE terminal, type: 
 ```
 git clone https://github.com/mcalmette/TechnicalAnalysis.git
 ```
