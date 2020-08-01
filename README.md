@@ -45,6 +45,7 @@ Now you are all set! Simply run main.py. For Microsoft, the program generates th
 
 <img width="996" alt="Screen Shot 2020-08-01 at 4 05 36 PM" src="https://user-images.githubusercontent.com/56742122/89111937-eb45b200-d410-11ea-8cc3-513880039115.png">
 
+<img width="998" alt="Screen Shot 2020-08-01 at 4 09 06 PM" src="https://user-images.githubusercontent.com/56742122/89111964-60b18280-d411-11ea-97fd-acb9ab2f980a.png">
 
 
 
