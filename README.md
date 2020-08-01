@@ -7,6 +7,10 @@ bottom to see screenshots and a gif of how it works! :grin:
 
 ## Python 3.8/Pandas/MatPlotLib
 
+
+In your terminal in a Python IDE, type: git clone https://github.com/mcalmette/TechnicalAnalysis.git
+
+
 ### Class Setup
 ```
 pip install pandas
