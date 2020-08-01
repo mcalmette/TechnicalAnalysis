@@ -29,7 +29,7 @@ pip install mplcursors
 Now you can run main.py with the given csv files (MSFT, PFE, T, SPY). 
 
 To add different stock data, go to yahoo finance and download a stocks csv file with a date range. Include the SPY 
-csv file with the same date range (recommend 1 year/ 3 year/ 5 year).
+csv file with the same date range (recommend 1 year/ 3 year/ 5 year), and add this to the techncial analysis folder.
 
 
 
