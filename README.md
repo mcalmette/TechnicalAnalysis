@@ -53,7 +53,7 @@ Now you are all set! Simply run main.py. For Microsoft, the program generates th
 
 
 
-After, the program will generate a StockReport.txt with all of the technical values, looking something like this:
+After, the program will generate a StockReport.txt with all of the technical values.
 
 
 <img width="638" alt="Screen Shot 2020-08-01 at 4 18 30 PM" src="https://user-images.githubusercontent.com/56742122/89112547-17fdc780-d419-11ea-8ba9-8729e9b68fa7.png">
