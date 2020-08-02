@@ -55,7 +55,8 @@ Now you are all set! Simply run main.py. For Microsoft, the program generates th
 
 After, the program will generate a StockReport.txt with all of the technical values, looking something like this:
 
-<img width="638" alt="Screen Shot 2020-08-01 at 4 18 30 PM" src="https://user-images.githubusercontent.com/56742122/89112102-1d581380-d413-11ea-9a5d-612f4caf83a2.png">
+
+![Animated GIF-source](https://user-images.githubusercontent.com/56742122/89112515-99a12580-d418-11ea-8625-6a67217d7e72.gif)
 
 
 
