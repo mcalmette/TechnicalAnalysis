@@ -59,7 +59,6 @@ After, the program will generate a StockReport.txt with all of the technical val
 <img width="638" alt="Screen Shot 2020-08-01 at 4 18 30 PM" src="https://user-images.githubusercontent.com/56742122/89112547-17fdc780-d419-11ea-8ba9-8729e9b68fa7.png">
 
 
-Thanks for checking out this project!
 
 
 ![Animated GIF-downsized_large](https://user-images.githubusercontent.com/56742122/89112530-d1a86880-d418-11ea-9a94-dd62e825c164.gif)
