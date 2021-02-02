@@ -1,10 +1,5 @@
 # Stock Technical Analysis :chart_with_upwards_trend:
 
-If you would like
-to run the project for yourself, follow the instructions below - if not, scroll to the 
-bottom to see screenshots and a gif of how it works! :grin:
-
-
 ## Usage: Python 3.8/Pandas/MatPlotLib
 
 
